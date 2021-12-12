@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: rgb(38, 87, 87);
+}
+.heading{
+    background: darkseagreen;
+    margin-left: 250px;
+    margin-right: 250px;
+    border:solid;
+    border-color: lightgreen;
+    font-family: fantasy;
+    color:rgb(86, 69, 88)
+}
+.name_of_family{
+    color:whitesmoke;
+}
+#camera{
+    border: 2px dashed rgb(207, 207, 207);
+    width:350px;
+    height: 300px;
+}
